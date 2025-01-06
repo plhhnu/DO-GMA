@@ -19,7 +19,9 @@ yacs==0.1.8
 ## Using
 main.py: start file for model training.
 
-An example of the format in which we have loaded the data into the programme is at https://github.com/plhhnu/DO-GMA/tree/main/datasets. If you need to do a quick start, please run The file ‘main.py’ under https://github.com/plhhnu/DO-GMA/tree/main/code. You can get the detailed code implementation of GMA attention in attention.py, and the detailed code implementation of the whole framework in model.py.
+An example of the format in which we have loaded the data into the programme is at https://github.com/plhhnu/DO-GMA/tree/main/datasets. If you need to do a quick start, please run The file ‘main.py’ under https://github.com/plhhnu/DO-GMA/tree/main/code. 
+
+You can get the detailed code implementation of GMA attention in 'attention.py', and the detailed code implementation of the whole framework in 'model.py'.
 
 ## Citation
 Please cite our paper if you find our work useful in your own research.
