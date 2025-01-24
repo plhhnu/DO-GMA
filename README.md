@@ -26,5 +26,5 @@ You can get the detailed code implementation of GMA attention in 'attention.py',
 ## Citation
 Please cite our paper if you find our work useful in your own research.
 ```S
-
+DOI: 10.1021/acs.jcim.4c02088
 ```
